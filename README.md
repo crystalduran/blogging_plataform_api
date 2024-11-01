@@ -2,7 +2,7 @@
 
 This is a project recommended by Roadmap.sh, which consists of building a RESTful API for a personal blogging platform.
 
-You can find the project details [here](https://roadmap.sh/projects/flash-cards)
+You can find the project details [here](https://roadmap.sh/projects/blogging-platform-api)
 
 ### Description
 
